@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "977663453067",
+    "firebase_url": "https://designamigo-tech.firebaseio.com",
+    "project_id": "designamigo-tech",
+    "storage_bucket": "designamigo-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977663453067:android:410a08063ae17d63",
+        "android_client_info": {
+          "package_name": "in.designamigo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977663453067-bjg7ba57m48fub7eatak7igal2vqd4e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2CmzTSbWrkP3TVxYiGi-d5_tyDpA3zLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
